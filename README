@@ -1,0 +1,1 @@
+"common.h" include two common functions like 'pr_exit' and 'setnonblocking'
